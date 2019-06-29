@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "gh-pages": "^2.0.1",
     "highlight": "^0.2.4",
     "highlight.js": "^9.15.8",
     "marked": "^0.6.2",
@@ -35,5 +34,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage":"https://github.com/kenmaready/markdown-previewer"
+  "homepage": "http://kenmaready.github.io/markdown-previewer",
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
+  }
 }
