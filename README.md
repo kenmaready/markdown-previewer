@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This is a simple markdown previewer for a [FreeCodeCamp](https://www.freecodecamp.org/) project.  Translation of text to markdown is powered by [marked.js](https://marked.js.org/#/README.md).
+
 ## Available Scripts
 
 In the project directory, you can run:
